@@ -1,0 +1,35 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Courier New', Courier, monospace;
+}
+
+
+header {
+      padding:40px 0;
+      margin-bottom: 10rem;
+      border: 1px solid white;
+      background-color: #946b34;
+}
+
+header h1 {
+      text-align: center;
+}
+
+h2 {
+      padding: 20px 10px;
+}
+
+main {
+      margin: 80px auto;
+      background-color: white;
+      width: 800px;
+      height: fit-content;
+      border: none;
+}
+
+.cont-description {
+      margin-bottom: 140px;
+}
+
